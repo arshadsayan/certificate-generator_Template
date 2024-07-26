@@ -1,0 +1,76 @@
+.cons1{
+  
+}
+.logo1{
+  position: absolute;
+  top: 11%; /* Adjust the top position as needed */
+  right: 19%;/* Adjust the left position as needed */
+  width: 130px; /* Adjust the width as needed */
+  height: auto;
+}
+.sies1 {
+  position: absolute;
+  top: 11%; /* Adjust the top position as needed */
+  left: 18%; /* Adjust the left position as needed */
+  width: 130px; /* Adjust the width as needed */
+  height: auto;
+}
+
+.text-overlay {
+  position: absolute;
+  text-align: center;
+  color: black;
+
+}
+
+.certificate-title1 {
+  top: 12%;
+  font-size: 50px;
+  font-weight: bold;
+  font-family:bree-serif;
+}
+
+.certificate-subtitle1 {
+  top: 20%;
+  font-size: 29px;
+  font-family:bree-serif;
+}
+
+.certificate-recipient1 {
+  top: 30%;
+  font-size: 21px;
+  font-family:bree-serif;
+}
+
+.certificate-recipient_name1 {
+  top: 35%;
+  font-size: 60.2px;
+  font-weight: bold;
+  font-family:Verdana;
+  border-bottom: 2px solid ;
+}
+
+.certificate-message1 {
+  top: 50%;
+  font-size: 15px;
+  width: 50%;
+  font-family:bree-serif;
+}
+
+.signature1 {
+  top: 68%;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  font-family:bree-serif;
+}
+
+.signature_name1 {
+  top: 73%;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  font-family:bree-serif;
+}
